@@ -1,0 +1,22 @@
+{
+  "name": "learning_express",
+  "version": "1.0.0",
+  "description": "The purpose of this repository is to learn and improve my skills in express js",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrianbarros/learning_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adrianbarros/learning_express/issues"
+  },
+  "homepage": "https://github.com/Adrianbarros/learning_express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
